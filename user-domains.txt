@@ -48,6 +48,11 @@ telegram-cdn.com
 telegram-cdn.net
 tdesktop.com
 mtproto.org
+web.telegram.org
+oauth.telegram.org
+login.telegram.org
+desktop.telegram.org
+updates.tdesktop.com
 
 //speedtest
 bufferbloat.libreqos.com
