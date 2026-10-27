@@ -54,3 +54,9 @@ libreqos.com
 cloudflare.com
 
 plex.tv
+
+nousresearch.com
+hermes-agent.nousresearch.com
+hermes-assets.nousresearch.com
+portal.nousresearch.com
+inference-api.nousresearch.com
